@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title> Home</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+<div id="page">
+	<div id ="header">
+		<h1> creative computer society computing</h1>
+	</div>
+	<div class="navbar">
+		<ol>
+			<li>
+				<a href="github.com/BhavyaVij">Home</a>
+			</li>
+			
+			<li>abot us</li>
+			<li> team</li>
+						<li>contact us</li>
+		</ol>
+	</div>
+	<div id="img-bar"></div>
+	<div id="vision">vision</div>
+	<div id="text">
+		<span id="txt"> udhusdhsdksfkwhfk sajdsadbasdc
+		</span>
+	</div>
+	<div id="team">TEAM</div>
+	<div id="members">
+		<table border="1"><tr>
+			<td rowspan="4"><img src="wall/dhoni.jpg" width="200" height="300"></td>
+			<td>name</td>
+		</tr>
+		<tr><td>email</td></tr>
+		<tr><td>branch</td></tr>
+		<tr><td>knowledge</td></tr>
+	</table>
+	<table border="1"><tr>
+			<td rowspan="4"><img src="wall/dhoni.jpg" width="200" height="300"></td>
+			<td>name</td>
+		</tr>
+		<tr><td>email</td></tr>
+		<tr><td>branch</td></tr>
+		<tr><td>knowledge</td></tr>
+	</table>
+	
+	</div>
+</div>
+</body>
+</html>
